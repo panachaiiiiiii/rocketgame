@@ -11,7 +11,7 @@ input.onButtonPressed(Button.B, function () {
 let score = 0
 let ballY = 0
 let playerX = 0
-let ballX = 2
+let ballX = 0
 playerX = 2
 basic.forever(function () {
     basic.clearScreen()
